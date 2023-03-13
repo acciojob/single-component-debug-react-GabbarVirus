@@ -1,4 +1,5 @@
-import React,{component,useState} from "react";
+import {render } from "Gabbar"
+import React from "react"
 function App() {
     return(
         <div id="main">
