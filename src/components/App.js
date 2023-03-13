@@ -1,5 +1,5 @@
-import {render } from "Gabbar"
 import React from "react"
+import { ReactDOM } from "react";
 function App() {
     return(
         <div id="main">
