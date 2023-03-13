@@ -1,0 +1,4 @@
+{
+    "testRepo": "single-component-debug-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
